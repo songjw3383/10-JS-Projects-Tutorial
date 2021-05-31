@@ -9,8 +9,9 @@
 ![Quiz_App_2](https://user-images.githubusercontent.com/56250064/120109106-fee1b680-c1a2-11eb-828f-08b03a3e2dad.png)
 ------------
 ### 3. Recipe App
-![Recipe_App_Main](https://user-images.githubusercontent.com/56250064/120214955-22266780-c270-11eb-9848-1fe998efdeb0.png)
-![Recipe_App_RecipeofFood](https://user-images.githubusercontent.com/56250064/120214958-23579480-c270-11eb-881f-13b98f0981f6.png)
+<img src="https://user-images.githubusercontent.com/56250064/120214955-22266780-c270-11eb-9848-1fe998efdeb0.png" height="600px" width="480">
+<img src="https://user-images.githubusercontent.com/56250064/120214958-23579480-c270-11eb-881f-13b98f0981f6.png" height="600px" width="480">
+
 
 [기능]
 1. 음식 검색 및 좋아요(하트)버튼으로 Favorite Meals에 음식 추가가능
