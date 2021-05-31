@@ -10,8 +10,8 @@
 ------------
 ### 3. Recipe App
 <p>
-<img src="https://user-images.githubusercontent.com/56250064/120214955-22266780-c270-11eb-9848-1fe998efdeb0.png" height="600px" width="350">
-<img src="https://user-images.githubusercontent.com/56250064/120214958-23579480-c270-11eb-881f-13b98f0981f6.png" height="600px" width="350">
+<img src="https://user-images.githubusercontent.com/56250064/120214955-22266780-c270-11eb-9848-1fe998efdeb0.png" height="600px" width="400">
+<img src="https://user-images.githubusercontent.com/56250064/120214958-23579480-c270-11eb-881f-13b98f0981f6.png" height="600px" width="400">
 </p>
 
 [기능]
