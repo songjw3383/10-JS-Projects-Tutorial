@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/56250064/120214955-22266780-c270-11eb-9848-1fe998efdeb0.png" height="600px" width="400">
 <img src="https://user-images.githubusercontent.com/56250064/120214958-23579480-c270-11eb-881f-13b98f0981f6.png" height="600px" width="400">
 </p>
-<br />
+
 [기능]
 1. 음식 검색 및 좋아요(하트)버튼으로 Favorite Meals에 음식 추가가능
  + 좋아요 해제 및 Favorite Meals 음식제거시 Favorite Meals에 음식 자동 삭제
