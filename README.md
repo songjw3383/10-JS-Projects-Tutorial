@@ -26,7 +26,7 @@
 
 ### 4. Notes App
 ![Notes_App](https://user-images.githubusercontent.com/56250064/120292863-a247de00-c2ff-11eb-8314-14b5e421b938.png)
-
+<br />
 [기능]
 1. Markdown
 2. 저장 및 삭제 기능
@@ -34,7 +34,7 @@
 
 ### 4. Todos App
 ![Todos_App](https://user-images.githubusercontent.com/56250064/120302264-afb59600-c308-11eb-8c90-86507e06e52b.png)
-
+<br />
 [기능]
 1. 왼쪽클릭 : 줄 긋기 (완료된 것 구분) / 오른쪽클릭 : 삭제
 ------------
