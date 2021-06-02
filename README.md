@@ -38,3 +38,9 @@
 [기능]
 1. 왼쪽클릭 : 줄 긋기 (완료된 것 구분) / 오른쪽클릭 : 삭제
 ------------
+
+### 5. Github Profiles
+![Github-Profiles](https://user-images.githubusercontent.com/56250064/120454197-a262df00-c3ce-11eb-816b-6e1b5d7ef7b2.png)
+<br />
+[기능]
+1. 깃허브 프로필 검색 기능, 그리고 별 갯수에 따른 정렬 및 10개의 레파지토리 출력
