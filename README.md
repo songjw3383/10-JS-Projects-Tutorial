@@ -56,3 +56,11 @@
 <br />
 [기능]
 1. 선 굵기 조절 및 색상선택 / C 버튼으로 새로고침
+------------
+
+### 9. Password Generator
+![Password_Generator](https://user-images.githubusercontent.com/56250064/120666623-b3dbe200-c4c7-11eb-8fe8-c458677975b9.png)
+<br />
+[기능]
+1. 최소 4자 최대 20자, 대문자/소문자/숫자/기호 선택가능
+2. 복사 기능
