@@ -33,6 +33,7 @@
 ------------
 
 ### 5. Todos App
+
 ![Todos_App](https://user-images.githubusercontent.com/56250064/120302264-afb59600-c308-11eb-8c90-86507e06e52b.png)
 <br />
 [기능]
@@ -48,3 +49,10 @@
 <br />
 [기능]
 1. 깃허브 프로필 검색 기능, 그리고 별 갯수에 따른 정렬 및 10개의 레파지토리 출력
+------------
+
+### 8. Drawing App
+![Drawing_App](https://user-images.githubusercontent.com/56250064/120646926-fba53e00-c4b4-11eb-9b9e-788db067320d.png)
+<br />
+[기능]
+1. 선 굵기 조절 및 색상선택 / C 버튼으로 새로고침
