@@ -32,15 +32,27 @@
 2. 저장 및 삭제 기능
 ------------
 
-### 4. Todos App
+### 5. Todos App
+
 ![Todos_App](https://user-images.githubusercontent.com/56250064/120302264-afb59600-c308-11eb-8c90-86507e06e52b.png)
 <br />
 [기능]
 1. 왼쪽클릭 : 줄 긋기 (완료된 것 구분) / 오른쪽클릭 : 삭제
 ------------
 
-### 5. Github Profiles
+### 6. Movie App
+디자인 수정 중
+------------
+
+### 7. Github Profiles
 ![Github-Profiles](https://user-images.githubusercontent.com/56250064/120454197-a262df00-c3ce-11eb-816b-6e1b5d7ef7b2.png)
 <br />
 [기능]
 1. 깃허브 프로필 검색 기능, 그리고 별 갯수에 따른 정렬 및 10개의 레파지토리 출력
+------------
+
+### 8. Drawing App
+![Drawing_App](https://user-images.githubusercontent.com/56250064/120646926-fba53e00-c4b4-11eb-9b9e-788db067320d.png)
+<br />
+[기능]
+1. 선 굵기 조절 및 색상선택 / C 버튼으로 새로고침
