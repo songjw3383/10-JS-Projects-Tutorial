@@ -10,14 +10,22 @@ body {
     margin: 0;
 }
 
+header h1 {
+    color: white;
+    font-size: 3rem;
+    margin: 2rem;
+    letter-spacing: 10px;
+}
+
 header {
     background-color: #373b69;
     display: flex;
-    justify-content: flex-end;
-    padding: 1.5rem;
+    justify-content: space-between;
+    
 }
 
 .search {
+    margin: 3rem;
     border: 2px solid #22254b;
     background-color: transparent;
     border-radius: 50px;
@@ -40,14 +48,16 @@ header {
 main {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
+
 .movie {
     background-color: #373b69;
     border-radius: 3px;
     box-shadow: 0 4px 5px rgba(0,0,0,0.2);
     position: relative;
     margin: 2rem;
-    width: 300px;
+    width: 250px;
     overflow: hidden;
 }
 

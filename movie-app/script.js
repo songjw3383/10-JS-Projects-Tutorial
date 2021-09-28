@@ -7,6 +7,7 @@ const main = document.getElementById('main')
 const form = document.getElementById('form')
 const search = document.getElementById('search')
 
+
 getMovies(APIURL);
 
 async function getMovies(url) {
@@ -14,6 +15,7 @@ async function getMovies(url) {
     const respData = await resp.json();
 
     showMovies(respData.results);
+    console.log(respData);
 }
 
 
@@ -38,11 +40,12 @@ function showMovies(movies){
             ${overview}
         </div>
         `
-    
         main.appendChild(movieEl);
     })
   
 }
+
+
 
 function getClassByRate(vote) {
     if(vote >= 8) {
